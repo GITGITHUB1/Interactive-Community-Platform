@@ -6,6 +6,8 @@ const app = express();
 //Configure Dotenv file by writing its path(You Don't have to write it again and again just config it in App.js and use it anywhere)
 dotenv.config({ path: './config.env' });
 
+//Code edited successfully
+
 //Attach the connection file 
 require('./db/conn');
 
