@@ -22,3 +22,4 @@ const Helper = (props) => {
 }
 
 export default Helper
+export const url = "http://localhost:5000";
