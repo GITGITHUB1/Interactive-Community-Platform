@@ -1,0 +1,9 @@
+.DS_Store
+**/.DS_Store
+node_modules/
+dist/
+build/
+__pycache__/
+*.pyc
+.vscode/
+*.swp
